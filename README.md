@@ -14,9 +14,9 @@ npm run start
 
 V případě zájmu o spustitelný soubor (kupříkladu exe soubor pro windows) napište na email rad.baca@gmail.com.
 
-## Začátek
+## Aplikace
 
-Aplikace je nyní navržena na tři týmy. V JSON souborech jsou nyní uloženy nějaké postavy, které můžete odstranit a přidat nové (panel "Players"). Vyhodnocení nové sezóny se provádí v panelu "Seasons"
+Aplikace je nyní navržena na tři týmy. V JSON souborech jsou nyní uloženy nějaké postavy, které můžete přejmenovat a přidat nové (panel "Players"). Vyhodnocení nové sezóny se provádí v panelu "Seasons". Všechny údaje v aplikaci se ukládaji pro jednoduchost do JSON souborů.
 
 
 [node.js]: <http://nodejs.org>
