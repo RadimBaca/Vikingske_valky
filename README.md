@@ -1,5 +1,5 @@
 # Vikingské války
-Toto je jednoduchá JavaScriptová aplikace, kterou jsme využívali pro urychlení vyhodnocení plenění a lovu v táborové hře "Vikingské války". Podrobnosti ke hře jsou zveřejněny na stránkách hranostaj.cz
+Toto je jednoduchá JavaScriptová aplikace, kterou jsme využívali pro urychlení vyhodnocení plenění a lovu v táborové hře "Vikingské války". Podrobnosti ke hře jsou zveřejněny na stránkách hranostaj.cz. Podrobnější manuál k aplikaci bohužel zatím chybí. Pokud by jste potřebovali poradit s použitím, tak mě kontaktujte.
 
 ## Instalace a spuštění
 
@@ -16,7 +16,7 @@ V případě zájmu o spustitelný soubor (kupříkladu exe soubor pro windows) 
 
 ## Začátek
 
-Aplikace je nyní navržena na tři týmy. V JSON souborech jsou nyní uloženy nějaké postavy, které můžete odstranit a přidat nové. Vyhodnocení nové sezóny se provádí v panelu "seasons"
+Aplikace je nyní navržena na tři týmy. V JSON souborech jsou nyní uloženy nějaké postavy, které můžete odstranit a přidat nové (panel "Players"). Vyhodnocení nové sezóny se provádí v panelu "Seasons"
 
 
 [node.js]: <http://nodejs.org>
