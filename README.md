@@ -3,7 +3,7 @@ Toto je jednoduchá JavaScriptová aplikace, kterou jsme využívali pro urychle
 
 ## Instalace a spuštění
 
-Pro spuštění aplikace je nutné mít instalováno [node.js]. Po úspěšné instalaci node.js otevřete příkazovou řádku (např. v menu start napište cmd) se přesuňte do adresáře, kde chcete mít umístěnou aplikaci. Pak proveďte tyto příkazy:
+Pro spuštění aplikace je nutné mít instalováno [node.js]. Po úspěšné instalaci node.js otevřete příkazovou řádku (např. v menu start napište `cmd`) se přesuňte do adresáře, kde chcete mít umístěnou aplikaci (např. napiště `cd dektop`). Pak proveďte tyto příkazy:
 
 ```sh
 git clone https://github.com/RadimBaca/Vikingske_valky
