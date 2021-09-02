@@ -1,7 +1,7 @@
 {
   "name": "Vikings",
   "version": "1.0.0",
-  "description": "Support app that helps during the Viking game.",
+  "description": "Support app that helps during the Vikings wars game.",
   "main": "app/main.js",
   "dependencies": {
     "electron": "^1.8.8"
