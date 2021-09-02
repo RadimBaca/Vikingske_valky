@@ -1,0 +1,170 @@
+{
+    "fighter" : [
+        {
+            "fame": 0,
+            "level" : 1,
+            "throw" : 1,
+            "ball_load" : 1,
+            "ball_pick" : 0,
+            "shield" : "none",
+            "resource_load" : 0
+        },
+        {
+            "fame": 1,
+            "level" : 2,
+            "throw" : 1,
+            "ball_load" : 2,
+            "ball_pick" : 0,
+            "shield" : "none",
+            "resource_load" : 0
+        },
+        {
+            "fame": 3,
+            "level" : 3,
+            "throw" : 1,
+            "ball_load" : 3,
+            "ball_pick" : 0,
+            "shield" : "none",
+            "resource_load" : 0
+        },
+        {
+            "fame": 6,
+            "level" : 4,
+            "throw" : 1,
+            "ball_load" : 3,
+            "ball_pick" : 1,
+            "shield" : "none",
+            "resource_load" : 0
+        },
+        {
+            "fame": 10,
+            "level" : 5,
+            "throw" : 1,
+            "ball_load" : 4,
+            "ball_pick" : 1,
+            "shield" : "none",
+            "resource_load" : 0
+        },
+        {
+            "fame": 15,
+            "level" : 5,
+            "throw" : 1,
+            "ball_load" : 5,
+            "ball_pick" : 1,
+            "shield" : "none",
+            "resource_load" : 0
+        }
+    ],
+    "shieldmaiden" : [
+        {
+            "fame": 0,
+            "level" : 1,
+            "throw" : 0,
+            "ball_load" : 1,
+            "ball_pick" : 1,
+            "shield" : "malý",
+            "resource_load" : 0
+        },
+        {
+            "fame": 1,
+            "level" : 2,
+            "throw" : 0,
+            "ball_load" : 2,
+            "ball_pick" : 1,
+            "shield" : "malý",
+            "resource_load" : 0
+        },
+        {
+            "fame": 3,
+            "level" : 3,
+            "throw" : 0,
+            "ball_load" : 2,
+            "ball_pick" : 1,
+            "shield" : "velký",
+            "resource_load" : 0
+        },
+        {
+            "fame": 6,
+            "level" : 4,
+            "throw" : 1,
+            "ball_load" : 2,
+            "ball_pick" : 1,
+            "shield" : "velký",
+            "resource_load" : 0
+        },
+        {
+            "fame": 10,
+            "level" : 5,
+            "throw" : 1,
+            "ball_load" : 3,
+            "ball_pick" : 1,
+            "shield" : "velký",
+            "resource_load" : 0
+        },
+        {
+            "fame": 15,
+            "level" : 5,
+            "throw" : 1,
+            "ball_load" : 3,
+            "ball_pick" : 1,
+            "shield" : "velký",
+            "resource_load" : 1
+        }
+    ],
+    "hunter" : [
+        {
+            "fame": 0,
+            "level" : 1,
+            "throw" : 0,
+            "ball_load" : 0,
+            "ball_pick" : 0,
+            "shield" : "none",
+            "resource_load" : 1
+        },
+        {
+            "fame": 1,
+            "level" : 2,
+            "throw" : 0,
+            "ball_load" : 0,
+            "ball_pick" : 0,
+            "shield" : "none",
+            "resource_load" : 2
+        },
+        {
+            "fame": 3,
+            "level" : 3,
+            "throw" : 0,
+            "ball_load" : 0,
+            "ball_pick" : 0,
+            "shield" : "none",
+            "resource_load" : 3
+        },
+        {
+            "fame": 6,
+            "level" : 4,
+            "throw" : 0,
+            "ball_load" : 1,
+            "ball_pick" : 1,
+            "shield" : "none",
+            "resource_load" : 4
+        },
+        {
+            "fame": 10,
+            "level" : 5,
+            "throw" : 0,
+            "ball_load" : 2,
+            "ball_pick" : 1,
+            "shield" : "none",
+            "resource_load" : 5
+        },
+        {
+            "fame": 15,
+            "level" : 5,
+            "throw" : 0,
+            "ball_load" : 3,
+            "ball_pick" : 1,
+            "shield" : "none",
+            "resource_load" : 6
+        }
+    ]  
+}

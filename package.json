@@ -1,0 +1,20 @@
+{
+  "name": "Vikings",
+  "version": "1.0.0",
+  "description": "Support app that helps during the Viking game.",
+  "main": "app/main.js",
+  "dependencies": {
+    "electron": "^1.8.8"
+  },
+  "devDependencies": {
+    "electron-packager": "^15.2.0"
+  },
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . vikings-seasons-0-1 --overwrite --asar --platform=win32 --arch=ia32 --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Radim Baca <rad.baca@gmail.com>",
+  "license": "APACHE"
+}

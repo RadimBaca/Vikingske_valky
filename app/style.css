@@ -1,0 +1,134 @@
+html {
+    background-color: gainsboro; 
+    font-family: Arial;
+}
+
+td {
+    padding: 8px 8px 8px 8px;
+}
+
+textarea {
+	border: 2px solid #765942;
+	border-radius: 4px;
+    height : 20px;
+    width: 30px;
+    font-size: 16px;
+    resize: none;
+    font-family: Arial;    
+}
+
+.divedit {    
+    margin: 5px 5px 5px 5px;
+}
+
+.divedit_str {  
+    width: 100px;  
+    margin: 5px 5px 5px 5px;
+}
+
+.nadpis_str {
+    font-size: 16px;
+    font-weight: 700;
+    float: left;
+    width: 105px;
+    margin: 5px 5px 5px 5px;
+}
+
+.nadpis_num {
+    font-size: 16px;
+    font-weight: 700;
+    float: left;
+    width: 35px;
+    margin: 5px 5px 5px 5px;
+}
+
+select {
+	border: 2px solid #765942;
+	border-radius: 4px;
+    height : 28px;
+	width: 100px;
+    font-size: 16px;
+    vertical-align: top;
+    font-family: Arial;    
+    margin: 5px 5px 5px 5px;
+}
+
+label {
+    font-size: 20px;
+    font-family: Arial;    
+}
+
+button.remove {
+	border: 2px solid #765942;
+	border-radius: 4px;
+    height : 28px;
+	width: 100px;
+    font-size: 16px;
+    vertical-align: top;
+    font-family: Arial;    
+    margin: 5px 5px 5px 5px;
+    padding: 0.5em 1em;
+}
+
+div {
+    vertical-align: top;
+}
+
+h3 {
+    background-color: rgba(129, 102, 112, 0.479)
+}
+
+table {
+    border: dimgrey;
+    border-style: solid;
+}
+
+.gold {
+    background-color: rgba(255, 234, 113, 0.479)
+}
+
+.crops {
+    background-color: rgba(191, 250, 103, 0.486);
+}
+
+.live {
+    background-color: rgba(194, 188, 188, 0.63);
+}
+
+.shield {
+    background-color: rgba(127, 252, 225, 0.534);
+}
+
+.blue {
+    background-color: rgb(185, 185, 255);
+}
+
+.red {
+    background-color: rgb(255, 173, 173);
+}
+
+.yellow {
+    background-color: #ffffaa;
+}
+
+.dead {
+    text-decoration: line-through;
+}
+
+button {
+    font-size: 20px;
+    background-color: rgb(173, 173, 173);
+    border: 5px;
+    font-family: Arial;
+    padding: 0.5em 1em;
+    margin: 5px 5px 5px 5px
+}
+
+button.menu {
+    font-size: 20px;
+    background-color: rgb(65, 171, 185);
+}
+
+.panel {
+    padding: 10px 10px 10px 10px; 
+}

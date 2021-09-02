@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'">
+    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'">
+    <title>Vikings!</title>
+    <link rel="stylesheet" href="./style.css" type="text/css">
+
+</head>
+
+<body>
+
+
+    <!--Season evaluation confirm-->
+    <div id="panel_season_confirm" class="panel">
+        <h3>Deaths</h3>
+        <table id="table_season_deaths">
+            <tr>
+                <th>Name</th>
+            </tr>
+        </table>
+        <h3>Gold</h3>
+        <table id="table_season_gold">
+            <tr>
+                <th>Name</th>
+                <th>Gold Picked</th>
+                <th>Fame</th>
+            </tr>
+        </table>
+        <h3>Food</h3>
+        <table id="table_season_food">
+            <tr>
+                <th>Name</th>
+                <th>Food Picked</th>
+                <th>Fame</th>
+            </tr>
+        </table>
+        <h3>Shield Cards</h3>
+        <table id="table_season_shield">
+            <tr>
+                <th>Name</th>
+                <th>Shield Cards Picked</th>
+                <th>Fame</th>
+            </tr>
+        </table>
+        <h3>Kills</h3>
+        <table id="table_season_kills">
+            <tr>
+                <th>Name</th>
+                <th>Kills</th>
+                <th>Fame</th>
+            </tr>
+        </table>
+        <button id="button_back">Back</button>
+        <button id="button_confirm">Next</button>
+    </div>
+
+    <div id='result'></div>
+
+
+    <script src="./util.js"></script>
+    <script src="./new_season_2.js"></script> 
+</body>
+
+</html>

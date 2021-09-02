@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'">
+  <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'">
+  <title>Vikings!</title>
+  <link rel="stylesheet" href="./style.css" type="text/css">
+
+</head>
+
+<body>
+
+
+  <div id="panel_players" class="panel">
+    <div class="nadpis_str">Name</div>
+    <div class="nadpis_str">Team</div>
+    <div class="nadpis_str">Role</div>
+    <div class="nadpis_num">Lives</div>
+    <div class="nadpis_num">Fame</div><br /><br />
+    <div id="div_players">
+    </div>
+    <button id="button_add_players">Add</button><br />
+    <button id="button_cancel_players">Cancel</button>
+    <button id="button_players">Ok</button>
+  </div>
+
+
+  <div id='result'></div>
+
+  <script src="./util.js"></script>
+  <script src="./edit_players.js"></script>   
+</body>
+
+</html>

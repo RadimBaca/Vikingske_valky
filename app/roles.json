@@ -1,0 +1,14 @@
+[
+    {
+        "id" : "fighter",
+        "name" : "Bojovník"
+    },
+    {
+        "id" : "shieldmaiden",
+        "name" : "Štítonoš"
+    },
+    {
+        "id" : "hunter",
+        "name" : "Lovec"
+    }
+]
